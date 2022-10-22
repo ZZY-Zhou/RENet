@@ -1,6 +1,8 @@
-# RENet
+# RGB-Event Fusion for Moving Object Detection in Autonomous Driving
 
-Repository for paper [ RGB-Event Fusion for Moving Object Detection in Autonomous Driving](https://arxiv.org/abs/2209.08323).
+This is the code for the paper **RGB-Event Fusion for Moving Object Detection in Autonomous Driving**, by Zhuyun Zhou, Zongwei Wu, Rémi Boutteau, Fan Yang, Cédric Demonceaux, Dominique Ginhac.
+
+PDF version of the paper is available [here](https://arxiv.org/abs/2209.08323).
 
 Code will be available soon.
 
