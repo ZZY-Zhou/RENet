@@ -1,8 +1,10 @@
 # RGB-Event Fusion for Moving Object Detection in Autonomous Driving
 
-This is the code for the paper **RGB-Event Fusion for Moving Object Detection in Autonomous Driving**, by Zhuyun Zhou, Zongwei Wu, Rémi Boutteau, Fan Yang, Cédric Demonceaux, Dominique Ginhac.
+This repository is for the paper **RGB-Event Fusion for Moving Object Detection in Autonomous Driving**, by Zhuyun Zhou, Zongwei Wu, Rémi Boutteau, Fan Yang, Cédric Demonceaux, Dominique Ginhac.
 
 PDF version of the paper is available [here](https://arxiv.org/abs/2209.08323).
+
+Dataset DSEC-MOD can be found [here](#dataset).
 
 Code will be available soon.
 
@@ -10,7 +12,7 @@ Code will be available soon.
 
 ## Citation
 
-If you use any of this code in your research, please cite the following work:
+If you use any of this code or the dataset DSEC-MOD in your research, please cite the following work:
 
 
 
@@ -33,10 +35,12 @@ Moving Object Detection (MOD) is a critical vision task for successfully achievi
 
 ## Dataset
 
+DSEC-MOD will be available soon.
+
 
 
 ## Parent Dataset: DSEC
 
 DSEC is available here: [ https://dsec.ifi.uzh.ch](https://dsec.ifi.uzh.ch).
 
-Details can be found in paper [ DSEC: A Stereo Event Camera Dataset for Driving Scenarios](https://rpg.ifi.uzh.ch/docs/RAL21_DSEC.pdf).
+Details can be found in the paper [ DSEC: A Stereo Event Camera Dataset for Driving Scenarios](https://rpg.ifi.uzh.ch/docs/RAL21_DSEC.pdf).
