@@ -4,9 +4,9 @@ This repository is for the paper **RGB-Event Fusion for Moving Object Detection 
 
 PDF version of the paper is available [here](https://arxiv.org/abs/2209.08323).
 
-Dataset DSEC-MOD can be found [here](#dataset).
+Dataset **DSEC-MOD: DSEC - Moving Object Detection** can be found [here](#dataset).
 
-Code will be available soon.
+Code of our **RENet: RGB-Event fusion Network** and others will be available soon.
 
 
 
@@ -39,7 +39,7 @@ DSEC-MOD will be available soon.
 
 
 
-## Parent Dataset: DSEC
+### Parent Dataset: DSEC
 
 DSEC is available here: [ https://dsec.ifi.uzh.ch](https://dsec.ifi.uzh.ch).
 
