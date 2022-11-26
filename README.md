@@ -10,9 +10,9 @@ Zhuyun Zhou,
 
 PDF version of the paper is available [here](https://arxiv.org/abs/2209.08323).
 
-Dataset **DSEC-MOD: DSEC - Moving Object Detection** can be found [here](#dataset).
+Dataset ***DSEC-MOD*** **: ***DSEC*** - ***M***oving ***O***bject ***D***etection** can be found [here](#dataset).
 
-Code of our **RENet: RGB-Event fusion Network** and others will be available soon.
+Code of our ***RENet*** **: ***R***GB-***E***vent fusion ***Net***work** and others will be available soon.
 
 
 
@@ -41,7 +41,7 @@ Moving Object Detection (MOD) is a critical vision task for successfully achievi
 
 ## Dataset
 
-DSEC-MOD will be available soon.
+***DSEC-MOD*** **: ***DSEC*** - ***M***oving ***O***bject ***D***etection** will be available soon.
 
 
 
