@@ -50,3 +50,15 @@ Moving Object Detection (MOD) is a critical vision task for successfully achievi
 DSEC is available here: [ https://dsec.ifi.uzh.ch](https://dsec.ifi.uzh.ch).
 
 Details can be found in the paper [ DSEC: A Stereo Event Camera Dataset for Driving Scenarios](https://rpg.ifi.uzh.ch/docs/RAL21_DSEC.pdf).
+
+
+
+## Installation
+
+1. Clone
+
+```
+git clone git@github.com:ZZY-Zhou/RENet.git
+```
+
+
