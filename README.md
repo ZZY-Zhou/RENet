@@ -1,4 +1,4 @@
-# RGB-Event Fusion for Moving Object Detection in Autonomous Driving
+# RGB-Event Fusion for Moving Object Detection in Autonomous Driving (ICRA'23)
 
 This repository is for the paper **RGB-Event Fusion for Moving Object Detection in Autonomous Driving**, by
 Zhuyun Zhou,
