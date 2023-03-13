@@ -41,7 +41,7 @@ Moving Object Detection (MOD) is a critical vision task for successfully achievi
 
 ## Dataset
 
-***DSEC-MOD*** **: ***DSEC*** - ***M***oving ***O***bject ***D***etection** will be available soon.
+***DSEC-MOD*** **: ***DSEC*** - ***M***oving ***O***bject ***D***etection** can be downloaded here: [training](https://drive.google.com/file/d/1Yi1sdp3OIHSg3EplwJsEFHNF5-_dmBO5/view?usp=sharing) and [testing](https://drive.google.com/file/d/1LPUSR_v9ZgmhRTyvwLzvBDW1FLaAnCPh/view?usp=sharing).
 
 
 
