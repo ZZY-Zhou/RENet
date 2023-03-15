@@ -43,6 +43,29 @@ Moving Object Detection (MOD) is a critical vision task for successfully achievi
 
 ***DSEC-MOD*** **: ***DSEC*** - ***M***oving ***O***bject ***D***etection** can be downloaded here: [training](https://drive.google.com/file/d/1Yi1sdp3OIHSg3EplwJsEFHNF5-_dmBO5/view?usp=sharing) and [testing](https://drive.google.com/file/d/1A7YcmY4s0X2Db2gi_Xt1rhNt-8mRXJ2f/view?usp=sharing).
 
+The format should be:
+
+```
+├── DSEC_MOD
+│   ├── training
+│   │   ├── zurich_city_00_a
+│   │   │   ├── gt_bb
+│   │   │   │   ├── 000000.txt
+│   │   │   │   └── ...
+│   │   │   ├── rgb_calib
+│   │   │   │   ├── 000000.png
+│   │   │   │   └── ...
+│   │   │   └── events  
+│   │   │       └── left
+│   │   │           ├── events.h5
+│   │   │           └── rectify_map.h5
+│   │   └── ...
+│   └── testing
+│       ├── zurich_city_13_a
+│       │   └── ...
+│       └── ... 
+```
+
 
 
 ### Parent Dataset: DSEC
