@@ -12,7 +12,7 @@ PDF version of the paper is available [here](https://arxiv.org/abs/2209.08323).
 
 Dataset ***DSEC-MOD*** **: ***DSEC*** - ***M***oving ***O***bject ***D***etection** can be found [here](#dataset).
 
-Code of our ***RENet*** **: ***R***GB-***E***vent fusion ***Net***work** and others will be available soon.
+Code of our ***RENet*** **: ***R***GB-***E***vent fusion ***Net***work** is released.
 
 
 
