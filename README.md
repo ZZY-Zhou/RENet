@@ -12,7 +12,13 @@ PDF version of the paper is available [here](https://arxiv.org/abs/2209.08323).
 
 Dataset ***DSEC-MOD*** **: ***DSEC*** - ***M***oving ***O***bject ***D***etection** can be found [here](#dataset).
 
-Code of our ***RENet*** **: ***R***GB-***E***vent fusion ***Net***work** is released.
+
+
+## News
+
+* Mar. 17, 2023: Code of our ***RENet*** **: ***R***GB-***E***vent fusion ***Net***work** is released.
+
+* Mar. 14, 2023: Dataset ***DSEC-MOD*** **: ***DSEC*** - ***M***oving ***O***bject ***D***etection** is released.
 
 
 
@@ -23,11 +29,11 @@ If you use any of this code or the dataset DSEC-MOD in your research, please cit
 
 
 ```BibTeX
-@article{zhou2022rgb,
+@article{zhou2023rgb,
   title={RGB-Event Fusion for Moving Object Detection in Autonomous Driving},
   author={Zhou, Zhuyun and Wu, Zongwei and Boutteau, R{\'e}mi and Yang, Fan and Demonceaux, C{\'e}dric and Ginhac, Dominique},
-  journal={arXiv preprint arXiv:2209.08323},
-  year={2022}
+  journal={ICRA 2023},
+  year={2023}
 }
 ```
 
