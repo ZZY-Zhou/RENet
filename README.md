@@ -88,6 +88,39 @@ Details can be found in the paper [ DSEC: A Stereo Event Camera Dataset for Driv
 
 
 
+## Pre-trained Weights
+
+Our pre-trained weights for our RENet can be downloaded [here](https://drive.google.com/file/d/175fW9v4BevwD-U--dJFzq0aYlXzp6sHm/view?usp=sharing).
+
+
+
+To get the same experimental results as in our paper, Events should be pre-processed by 3 temporal scales (15ms, 30ms, 50ms), details can be found in Section III-A. E-TMA: Event-based Temporal Multi-scale Aggregation.
+
+
+
+Then run the reference:
+
+```
+python3 det.py --task stream --model ROOT_OF_MODEL/best_model.pth --inference_dir PATH_TO_INF
+```
+
+The following command is to get the frame or video mAP:
+
+```
+python3 ACT.py --task TASK_NAME --th THRESHOLD --inference_dir PATH_TO_INF
+```
+
+For instance:
+```
+python3 ACT.py --task frameAP --th 0.5 --inference_dir PATH_TO_INF
+```
+or
+```
+python3 ACT.py --task videoAP --th 0.2 --inference_dir PATH_TO_INF
+```
+
+
+
 ## Installation
 
 1. Clone
