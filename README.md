@@ -98,7 +98,7 @@ To get the same experimental results as in our paper, Events should be pre-proce
 
 
 
-Then run the reference:
+Then run the inference:
 
 ```
 python3 det.py --task stream --model ROOT_OF_MODEL/best_model.pth --inference_dir PATH_TO_INF
