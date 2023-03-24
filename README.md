@@ -121,6 +121,10 @@ python3 ACT.py --task videoAP --th 0.2 --inference_dir PATH_TO_INF
 
 
 
+The initial pretrained weights are also available: [ResNet-101](https://drive.google.com/file/d/1PsAJUV7DD6fNSh54Biy9l3bGNRxBn4oB/view?usp=sharing) backbone for RGB stream, and [ResNet-18](https://drive.google.com/file/d/1ccJ1k9G4Dqk0LOwogHJu0n7XUlPAr4N5/view?usp=sharing) backbone for Event stream.
+
+
+
 ## Installation
 
 1. Clone
