@@ -94,7 +94,7 @@ Our pre-trained weights for our RENet can be downloaded [here](https://drive.goo
 
 
 
-To get the same experimental results as in our paper, Events should be pre-processed by 3 temporal scales ([15ms](https://drive.google.com/file/d/1yS2oTtAxbOC8Z_IJ67ttI-aYq5EzSYOO/view?usp=sharing), [30ms](https://drive.google.com/file/d/1nRHnQyxQOXo5RA2Gj1_PME7Vm61s-isc/view?usp=sharing), [50ms](https://drive.google.com/file/d/19CX9VyuC2HAqof9xW-UnUttZy7CIFrdH/view?usp=sharing)), details can be found in Section III-A. E-TMA: Event-based Temporal Multi-scale Aggregation.
+To get the same experimental results as in our paper, Events should be pre-processed by 3 temporal scales ([15ms](https://drive.google.com/file/d/1yS2oTtAxbOC8Z_IJ67ttI-aYq5EzSYOO/view?usp=sharing), [30ms](https://drive.google.com/file/d/1nRHnQyxQOXo5RA2Gj1_PME7Vm61s-isc/view?usp=sharing), [50ms](https://drive.google.com/file/d/19CX9VyuC2HAqof9xW-UnUttZy7CIFrdH/view?usp=sharing)), details can be found in Section III-A. E-TMA: Event-based Temporal Multi-scale Aggregation in our [paper](https://arxiv.org/abs/2209.08323).
 
 
 
