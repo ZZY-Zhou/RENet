@@ -58,24 +58,24 @@ In each sequence:
 
 The format should be:
 ```
-├── DSEC_MOD
-│   ├── training
-│   │   ├── zurich_city_00_a
-│   │   │   ├── gt_bb
-│   │   │   │   ├── 000000.txt
-│   │   │   │   └── ...
-│   │   │   ├── rgb_calib
-│   │   │   │   ├── 000000.png
-│   │   │   │   └── ...
-│   │   │   └── events  
-│   │   │       └── left
-│   │   │           ├── events.h5
-│   │   │           └── rectify_map.h5
-│   │   └── ...
-│   └── testing
-│       ├── zurich_city_13_a
-│       │   └── ...
-│       └── ... 
+└── DSEC_MOD
+    ├── training
+    │   ├── zurich_city_00_a
+    │   │   ├── gt_bb
+    │   │   │   ├── 000000.txt
+    │   │   │   └── ...
+    │   │   ├── rgb_calib
+    │   │   │   ├── 000000.png
+    │   │   │   └── ...
+    │   │   └── events  
+    │   │       └── left
+    │   │           ├── events.h5
+    │   │           └── rectify_map.h5
+    │   └── ...
+    └── testing
+        ├── zurich_city_13_a
+        │   └── ...
+        └── ... 
 ```
 
 
