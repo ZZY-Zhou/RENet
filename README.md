@@ -14,6 +14,12 @@ Dataset ***DSEC-MOD*** **: ***DSEC*** - ***M***oving ***O***bject ***D***etectio
 
 
 
+## Graphical Abstract
+
+![Graphical Abstract](https://user-images.githubusercontent.com/114169266/231510781-d7a185fb-a121-42e7-a0a7-2b12c8d15cf7.png)
+
+
+
 ## News
 
 * Mar. 17, 2023: Code of our ***RENet*** **: ***R***GB-***E***vent fusion ***Net***work** is released.
