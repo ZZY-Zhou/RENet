@@ -135,4 +135,11 @@ The initial pre-trained weights are also available: [ResNet-101](https://drive.g
 git clone git@github.com:ZZY-Zhou/RENet.git
 ```
 
+2. Create and activate conda environment
+
+```
+conda create -n ENV_NAME
+conda activate ENV_NAME
+```
+
 
