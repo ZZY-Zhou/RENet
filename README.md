@@ -145,7 +145,7 @@ The initial pre-trained weights are also available: [ResNet-101](https://drive.g
 1. Clone
 
 ```
-git clone git@github.com:ZZY-Zhou/RENet.git
+git clone https://github.com/ZZY-Zhou/RENet
 ```
 
 2. Create and activate conda environment
