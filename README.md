@@ -50,10 +50,10 @@ If you use any of this code or the dataset DSEC-MOD in your research, please cit
 
 
 ```BibTeX
-@article{zhou2023rgb,
+@inproceedings{zhou2023rgb,
   title={RGB-Event Fusion for Moving Object Detection in Autonomous Driving},
   author={Zhou, Zhuyun and Wu, Zongwei and Boutteau, R{\'e}mi and Yang, Fan and Demonceaux, C{\'e}dric and Ginhac, Dominique},
-  journal={ICRA 2023},
+  booktitle={ICRA 2023},
   year={2023}
 }
 ```
