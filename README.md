@@ -107,6 +107,14 @@ Details can be found in the paper [ DSEC: A Stereo Event Camera Dataset for Driv
 
 
 
+### Sister Dataset: DSEC-MOS
+
+DSEC-MOS is available here: [ https://github.com/ZZY-Zhou/DSEC-MOS](https://github.com/ZZY-Zhou/DSEC-MOS).
+
+Details can be found in the paper [ DSEC-MOS: Segment Any Moving Object with Moving Ego Vehicle](https://arxiv.org/abs/2305.00126).
+
+
+
 ## Pre-trained Weights
 
 Our pre-trained weights for our RENet can be downloaded [here](https://drive.google.com/file/d/175fW9v4BevwD-U--dJFzq0aYlXzp6sHm/view?usp=sharing).
