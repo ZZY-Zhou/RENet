@@ -53,7 +53,7 @@ If you use any of this code or the dataset DSEC-MOD in your research, please cit
 @inproceedings{zhou2023rgb,
   title={RGB-Event Fusion for Moving Object Detection in Autonomous Driving},
   author={Zhou, Zhuyun and Wu, Zongwei and Boutteau, R{\'e}mi and Yang, Fan and Demonceaux, C{\'e}dric and Ginhac, Dominique},
-  booktitle={ICRA},
+  booktitle={International Conference on Robotics and Automation (ICRA)},
   year={2023}
 }
 ```
