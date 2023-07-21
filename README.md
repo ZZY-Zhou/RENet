@@ -81,10 +81,10 @@ The format should be:
     ├── training
     │   ├── zurich_city_00_a
     │   │   ├── gt_bb
-    │   │   │   ├── 000000.txt
+    │   │   │   ├── 000001.txt
     │   │   │   └── ...
     │   │   ├── rgb_calib
-    │   │   │   ├── 000000.png
+    │   │   │   ├── 000001.png
     │   │   │   └── ...
     │   │   └── events  
     │   │       └── left
