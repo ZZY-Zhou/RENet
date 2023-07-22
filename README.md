@@ -51,10 +51,12 @@ If you use any of this code or the dataset DSEC-MOD in your research, please cit
 
 ```BibTeX
 @inproceedings{zhou2023rgb,
-  title={RGB-Event Fusion for Moving Object Detection in Autonomous Driving},
+  title={Rgb-event fusion for moving object detection in autonomous driving},
   author={Zhou, Zhuyun and Wu, Zongwei and Boutteau, R{\'e}mi and Yang, Fan and Demonceaux, C{\'e}dric and Ginhac, Dominique},
-  booktitle={International Conference on Robotics and Automation (ICRA)},
-  year={2023}
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={7808--7815},
+  year={2023},
+  organization={IEEE}
 }
 ```
 
