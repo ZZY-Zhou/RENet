@@ -54,7 +54,7 @@ class opts(object):
                                  help='learning rate for batch size 32.')
         self.parser.add_argument('--lr_step', type=str, default='10,15',
                                  help='drop learning rate by 10.')
-        self.parser.add_argument('--num_epochs', type=int, default=200,
+        self.parser.add_argument('--num_epochs', type=int, default=30,
                                  help='total training epochs.')
 
         # dataset seetings
